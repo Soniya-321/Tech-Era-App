@@ -1,0 +1,32 @@
+.course-details-container {
+  margin: 40px;
+  display: flex;
+  flex-direction: row;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  font-family: roboto;
+}
+.course-img {
+  height: 70vh;
+  width: 75vw;
+}
+.text {
+  margin: 20px;
+}
+.text h1 {
+  font-size: 30px;
+  color: #1e293b;
+}
+.text p {
+  font-size: 25px;
+  color: #475569;
+}
+.link {
+  text-decoration: none;
+}
+button {
+  background-color: #4656a1;
+  padding: 10px 15px;
+  border: none;
+  border-radius: 5px;
+  color: #fff;
+}
